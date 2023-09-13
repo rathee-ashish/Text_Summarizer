@@ -22,9 +22,6 @@ pathy==0.10.2
 preshed==3.0.8
 pydantic==2.3.0
 pydantic_core==2.6.3
-pypiwin32==223
-pyttsx3==2.90
-pywin32==306
 requests==2.31.0
 smart-open==6.4.0
 spacy
